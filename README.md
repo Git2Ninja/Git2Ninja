@@ -1,4 +1,4 @@
-##We're not just your average digital media company. 
+#We're not just your average digital media company. 
 
 We're the cool kids on the block who know how to create and distribute awesome coOur Digital Media Company
 Welcome to our digital media company! We're not just your average agency. We're a team of creative professionals who are passionate about creating and distributing awesome content that captivates audiences and leaves a lasting impression.
