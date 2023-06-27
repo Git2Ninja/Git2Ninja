@@ -9,7 +9,7 @@ At Sense Tech Services, we have a talented team of photographers, designers, and
 ## Our Services
 We offer a range of services to cater to your digital media needs:
 
-##Photography: 
+### Photography: 
 Our skilled photographers capture stunning visuals that tell your brand's story and engage your audience.
 
 ### Design:
