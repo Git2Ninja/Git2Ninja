@@ -1,10 +1,10 @@
 # We're not just your average digital media company. 
 
-We're the cool kids on the block who know how to create and distribute awesome coOur Digital Media Company
-Welcome to our digital media company! We're not just your average agency. We're a team of creative professionals who are passionate about creating and distributing awesome content that captivates audiences and leaves a lasting impression.
+We're the cool kids on the block who know how to create and distribute awesome code.
+Welcome to our Sense Tech Services! We're not just your average agency. We're a team of creative professionals who are passionate about creating and distributing awesome content that captivates audiences and leaves a lasting impression.
 
 ## About Us
-At our company, we have a talented team of photographers, designers, and software experts who work together to produce eye-catching and impactful digital media solutions. Our goal is to help businesses like yours shine in the digital world by delivering tailor-made content that connects with your target audience and boosts your marketing efforts.
+At Sense Tech Services, we have a talented team of photographers, designers, and software experts who work together to produce eye-catching and impactful digital media solutions. Our goal is to help businesses like yours shine in the digital world by delivering tailor-made content that connects with your target audience and boosts your marketing efforts.
 
 ## Our Services
 We offer a range of services to cater to your digital media needs:
