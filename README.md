@@ -9,9 +9,14 @@ At Sense Tech Services, we have a talented team of photographers, designers, and
 ## Our Services
 We offer a range of services to cater to your digital media needs:
 
-Photography: Our skilled photographers capture stunning visuals that tell your brand's story and engage your audience.
-Design: Our creative designers bring ideas to life with captivating designs that resonate with your brand identity and leave a lasting impression.
-Software Development: Our software experts develop innovative solutions to enhance user experiences and optimize your digital operations.
+##Photography: 
+Our skilled photographers capture stunning visuals that tell your brand's story and engage your audience.
+
+### Design:
+Our creative designers bring ideas to life with captivating designs that resonate with your brand identity and leave a lasting impression.
+
+### Software Development: 
+Our software experts develop innovative solutions to enhance user experiences and optimize your digital operations.
 
 ## Our Mission
 Our mission is to empower businesses by creating exceptional digital media content that stands out from the crowd. We believe in the power of creativity, innovation, and strategic thinking to help you achieve your digital goals.
