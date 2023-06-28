@@ -9,9 +9,7 @@ So, if you're looking for a crew of creative professionals who can transform you
 
 At our agency, we're not just average. We're extraordinary problem-solvers with a knack for making businesses shine. Let's join forces and conquer those hurdles together! 🤝🚀
 
-## Our Mission
-
-### Welcome to our realm of awesomeness,
+## Welcome to our realm of awesomeness,
 Where we embark on an epic quest to empower businesses with critical business applications that slay the competition! We're not your ordinary adventurers; we're a team of creative nerds who wield the power of innovation, strategy, and a sprinkle of magic to help you conquer the digital realm. Our mission is to be your trusty companions on this extraordinary journey, crafting customized business applications that streamline processes, boost efficiency, and unleash untapped growth potential.
 
 #### With our expert Application Development skills
